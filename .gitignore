@@ -1,0 +1,3 @@
+cqrs/product-command-service/mvnw.cmd
+cqrs/product-query-service/mvnw.cmd
+'saga-choreography-pattern/mvnw.cmd
