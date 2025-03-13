@@ -26,9 +26,9 @@ public class ProductQueryService {
         if (productEvent.getEventType().equals("CreateProduct")) {
             System.out.println("Saving product: " + product);
             repository.save(product);
-        }
-        if (productEvent.getEventType().equals("UpdateProduct")) {
-            Product existingProduct = repository.findById(product.getId()).get();
+        }else if (productEvent.getEventType().equals("UpdateProduct")) {
+            Product existingProduct = repository.findById(product.getId())
+                .orElseThrow(() -> new RuntimeException("Product not found with id: " + product.getId()));
             existingProduct.setName(product.getName());
             existingProduct.setPrice(product.getPrice());
             existingProduct.setDescription(product.getDescription());
