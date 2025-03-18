@@ -1,0 +1,10 @@
+D:\Kuliah\Semester 6\PPLBO\Praktik\transactional-outbox-pattern\order-service\src\main\java\com\javatechie\common\dto\OrderRequestDTO.java
+D:\Kuliah\Semester 6\PPLBO\Praktik\transactional-outbox-pattern\order-service\src\main\java\com\javatechie\common\mapper\OrderDTOtoEntityMapper.java
+D:\Kuliah\Semester 6\PPLBO\Praktik\transactional-outbox-pattern\order-service\src\main\java\com\javatechie\common\mapper\OrderEntityToOutboxEntityMapper.java
+D:\Kuliah\Semester 6\PPLBO\Praktik\transactional-outbox-pattern\order-service\src\main\java\com\javatechie\controller\OrderController.java
+D:\Kuliah\Semester 6\PPLBO\Praktik\transactional-outbox-pattern\order-service\src\main\java\com\javatechie\entity\Order.java
+D:\Kuliah\Semester 6\PPLBO\Praktik\transactional-outbox-pattern\order-service\src\main\java\com\javatechie\entity\Outbox.java
+D:\Kuliah\Semester 6\PPLBO\Praktik\transactional-outbox-pattern\order-service\src\main\java\com\javatechie\OrderServiceApplication.java
+D:\Kuliah\Semester 6\PPLBO\Praktik\transactional-outbox-pattern\order-service\src\main\java\com\javatechie\repository\OrderRepository.java
+D:\Kuliah\Semester 6\PPLBO\Praktik\transactional-outbox-pattern\order-service\src\main\java\com\javatechie\repository\OutboxRepository.java
+D:\Kuliah\Semester 6\PPLBO\Praktik\transactional-outbox-pattern\order-service\src\main\java\com\javatechie\service\OrderService.java

@@ -1,0 +1,13 @@
+com\javatechie\repository\OutboxRepository.class
+com\javatechie\common\mapper\OrderEntityToOutboxEntityMapper.class
+com\javatechie\entity\Outbox$OutboxBuilder.class
+com\javatechie\entity\Order.class
+com\javatechie\service\OrderService.class
+com\javatechie\OrderServiceApplication.class
+com\javatechie\common\dto\OrderRequestDTO$OrderRequestDTOBuilder.class
+com\javatechie\common\dto\OrderRequestDTO.class
+com\javatechie\entity\Order$OrderBuilder.class
+com\javatechie\controller\OrderController.class
+com\javatechie\repository\OrderRepository.class
+com\javatechie\entity\Outbox.class
+com\javatechie\common\mapper\OrderDTOtoEntityMapper.class
